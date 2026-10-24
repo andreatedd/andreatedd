@@ -1,1 +1,1 @@
-Master's student in Computer Science at the University of Milan, focusing on Data Science and Artificial Intelligence.
+MSc student in Computer Science at the University of Milan, focusing on Data Science and Artificial Intelligence.
